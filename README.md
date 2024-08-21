@@ -24,4 +24,7 @@ cmd file explorer
 ```
 clear
 ```
+```
+echo "[]" > todos.json
+```
 
