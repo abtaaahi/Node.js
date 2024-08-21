@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Buy groceries and cook dinner",
+    "completed": true
+  },
+  {
+    "title": "Learn Node.js",
+    "completed": false
+  },
+  {
+    "title": "Tuition Both",
+    "completed": false
+  },
+  {
+    "title": "Lab test on 25th August",
+    "completed": false
+  }
+]
