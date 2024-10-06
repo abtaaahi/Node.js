@@ -50,3 +50,9 @@ git commit -m "name"
 ```
 git push origin main
 ```
+```
+npm uninstall
+```
+```
+npm prune
+```
