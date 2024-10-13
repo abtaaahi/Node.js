@@ -1,0 +1,13 @@
+E:\Node.js\Notes App>node index.js add --title="Shopping List" --body="Buy milk, bread, and cheese"
+New note added!
+
+E:\Node.js\Notes App>node index.js list
+Your notes:
+Shopping List
+
+E:\Node.js\Notes App>node index.js read --title="Shopping List"
+Shopping List
+Buy milk, bread, and cheese
+
+E:\Node.js\Notes App>node index.js remove --title="Shopping List"
+Note removed!
