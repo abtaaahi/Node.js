@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "customerName": "Alice Smith",
+      "address": "123 Elm St",
+      "phone": "555-1234",
+      "email": "alice@example.com",
+      "productDetails": "Widget A (x2), Widget B (x1)",
+      "totalAmount": 150.0,
+      "orderDate": "2024-10-01T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "customerName": "Bob Johnson",
+      "address": "456 Oak St",
+      "phone": "555-5678",
+      "email": "bob@example.com",
+      "productDetails": "Widget C (x3)",
+      "totalAmount": 90.0,
+      "orderDate": "2024-10-02T11:30:00Z"
+    },
+    {
+      "id": 3,
+      "customerName": "Carol Williams",
+      "address": "789 Pine St",
+      "phone": "555-8765",
+      "email": "carol@example.com",
+      "productDetails": "Widget D (x1)",
+      "totalAmount": 45.0,
+      "orderDate": "2024-10-03T15:45:00Z"
+    },
+    {
+        "id": 4,
+        "customerName": "BAbtahi",
+        "address": "456 dfgs St",
+        "phone": "555-fdg",
+        "email": "bob@fg.com",
+        "productDetails": "fg C (x3)",
+        "totalAmount": 55.0,
+        "orderDate": "ssdfg-10-02T11:30:00Z"
+      }
+]
